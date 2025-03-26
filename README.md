@@ -43,7 +43,7 @@ node main.js
    Clona este repositorio en tu máquina local utilizando el siguiente comando:
 
    ```bash
-   git clone 
+   git clone https://github.com/Sergiovz/trabajoN4_matricesMultidimensionales_II.git
    ```
 
 2. **Navegar al Directorio:**
